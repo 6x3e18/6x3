@@ -100,8 +100,9 @@ export default function Home() {
           </p>
         </a>
 
-      
-        <a
+{/* gallery origial */}
+
+        {/* <a
           href="/gallery"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
           // target="_blank"
@@ -116,8 +117,24 @@ export default function Home() {
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
             Explore some of my digital artworks
           </p>
-        </a>
+        </a> */}
 
+
+{/* gallery replace to fill space */}
+        <a
+  href="#"
+  className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
+  style={{ visibility: 'hidden' }}
+>
+  <h4 className={`mb-3 text-2xl font-semibold`}>
+    &nbsp;
+  </h4>
+  <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
+    &nbsp;
+  </p>
+</a>
+
+{/* gallery replace to fill space end */}
         <a
           href="/about"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"

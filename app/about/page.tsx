@@ -56,7 +56,7 @@ export default function about() {
       <p className="z-9 max-w-4xl w-full items-start justify-between text-base text-justify lg:flex px-2">
    
         
-        Freelancer from Berlin. Curious about technology, design and it's connection to business solutions. This website is also my first project in Nxt.js. Please feel welcome to share some feedback if you find the time. Write me an Email if you're interested in working with me or just want to leave some warm words. 
+        Freelancer from Berlin. Curious about technology, design and it's connection to business solutions. This website is also my experimental space to explore Next.js. Feel free to write me an Email if you're interested in working with me or just want to leave some warm words. 
   
 
 

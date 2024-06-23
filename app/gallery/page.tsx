@@ -6,7 +6,6 @@ import useEmblaCarousel from 'embla-carousel-react';
 
 const images = [
   '/about.jpg',
-  '/land.jpg',
   '/mvp.jpg',
   // Add more image paths or URLs as needed
 ];
